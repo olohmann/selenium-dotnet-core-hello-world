@@ -1,4 +1,14 @@
-# Demo Steps
+# Hello World - Selenium meets .NET Core
+
+## Introduction
+
+Quick and dirty demo to run Selenium Test on .NET Core.
+
+## Acknowledgements
+
+This awesome demo snippet was first put together by [Carsten Duellmann](https://github.com/cadullms). All credits to Carsten for this one!
+
+## Demo Steps
 
 ```sh
 dotnet new xunit -n SeleniumHelloWorld

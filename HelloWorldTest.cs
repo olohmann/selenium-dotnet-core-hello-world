@@ -5,10 +5,10 @@ using Xunit;
 
 namespace SeleniumHelloWorld
 {
-    public class UnitTest1
+    public class HelloWorldTest
     {
         [Fact]
-        public void Test1()
+        public void HelloWorld()
         {
             var options = new ChromeOptions();
             //options.AddArgument("--headless");
